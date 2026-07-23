@@ -25,8 +25,9 @@ merupakan turunan dari class induk `Item`.
 - Async/Await: Manager.simpanData() mensimulasikan proses penyimpanan data
   dengan jeda menggunakan Future.delayed.
 
-# Struktur Folder
+## Struktur Folder
 
+```
 project_uas/
 ├── bin/
 │   └── main.dart
@@ -41,6 +42,7 @@ project_uas/
 │       └── data_tidak_valid_exception.dart
 ├── pubspec.yaml
 └── README.md
+```
 
 
 # Fitur Program
