@@ -1,7 +1,7 @@
 # Aplikasi Manajemen Perpustakaan (CLI)
 
-**Nama:** _Muhamad Aditiya Nugraha_
-**NIM:** _251240001616_
+**Nama:** Muhamad Aditiya Nugraha
+**NIM:** 251240001616
 
 ## Tema Aplikasi
 Aplikasi manajemen sederhana berbasis terminal (CLI) dengan tema **perpustakaan**.
